@@ -1,0 +1,2 @@
+# cv-crop-detection-sugarbeets
+This repo is an extract of our student project at University of Mannheim dealing with crop detection for sugarbeet plants. The dataset used was provided by Nived Chebrolu; Philipp Lottes; Alexander Schaefer; Wera Winterhalter; Wolfram Burgard; Cyrill Stachniss (2017): Agricultural robot dataset for plant classification, localization and mapping on sugar beet fields. In: The International Journal of Robotics Research. DOI: 10.1177/0278364917720510.  
